@@ -1,0 +1,9 @@
+---
+title: "R Markdown - A Better Way of Communicating with Data"
+date: "24/08/2020"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
