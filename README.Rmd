@@ -7,3 +7,5 @@ output: github_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+You can find the event materials from [here](https://github.com/DanyangDai/rladies-melbourne-rmarkdown). 
