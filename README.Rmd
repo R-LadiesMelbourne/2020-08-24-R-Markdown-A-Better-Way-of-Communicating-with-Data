@@ -9,3 +9,5 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 You can find the event materials from [here](https://github.com/DanyangDai/rladies-melbourne-rmarkdown). 
+
+Find the video on YouTube: [https://www.youtube.com/watch?v=0yeaK3ci8s8&feature=youtu.be](https://www.youtube.com/watch?v=0yeaK3ci8s8&feature=youtu.be)
